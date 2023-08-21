@@ -11,6 +11,6 @@ Un blog increible para el [curso de git y github](https://github.com/Rove099/hyp
 * Las multiples personalidades de Freddy
 * Creado por un estudiante de un curso de platzi
 * Incluye ejemplos en Windows, Linux y Mac
-* Disponible para todas las edades
+* Disponible para todas las edades y generos
 
 Y como un amable recordatorio: **Este readme.md es un chistte**. Diseñado para el ejemplo. si llegas aca NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
