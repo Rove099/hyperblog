@@ -9,6 +9,6 @@ Un blog increible para el [curso de git y github](https://github.com/Rove099/hyp
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las multiples personalidades de Freddy
-*Creado por un estudiante de un curso de platzi
+* Creado por un estudiante de un curso de platzi
 
 Y como un amable recordatorio: **Este readme.md es un chistte**. Diseñado para el ejemplo. si llegas aca NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
